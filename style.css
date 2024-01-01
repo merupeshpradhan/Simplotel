@@ -330,10 +330,8 @@ a {
     margin-top: 26px;
   }
   .container .firstPage .col2 {
-    /* margin-top: -2rem; */
     background-image: url(./images/pexels-robin-stickel-70497.jpg);
     background-repeat: no-repeat;
-    /* background-size: cover; */
     background-position: center;
   }
   /* =============================================================== */
